@@ -3,8 +3,10 @@
 In Anaconda Promopt of Windows, 
 
   Input following cmd to install pip:
-  
+
   $ python get-pip.py
+  or
+  $ python3 get-pip.py
 
   Input following cmd to install Dlib:
 
