@@ -15,5 +15,6 @@ In Anaconda Prompt of Windows /
   > $ pip install dlib-19.7.0-cp36-cp36m-win_amd64.whl
 
 <br>
-Author: &nbsp; coneypo
+Author: &nbsp; coneypo 
+<br>
 Mail: &nbsp;&nbsp;coneypo@foxmail.com
